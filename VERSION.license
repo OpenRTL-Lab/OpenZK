@@ -1,0 +1,15 @@
+OpenRTL-Header-Begin
+OpenRTL — Open-source hardware accelerators.
+Organization: https://github.com/OpenRTL-Lab
+Website: https://openrtl.top/
+
+Project: OpenZK
+An index of standalone MIT-licensed zero-knowledge hardware accelerator repositories.
+Repository: https://github.com/OpenRTL-Lab/OpenZK
+File: VERSION
+
+SPDX-FileCopyrightText: 2026 ZK Hardware Accelerator contributors
+Copyright applies to original project contributions only.
+SPDX-License-Identifier: MIT
+See LICENSE and applicable third-party notices.
+OpenRTL-Header-End
